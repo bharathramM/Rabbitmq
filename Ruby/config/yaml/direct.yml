@@ -1,0 +1,3 @@
+type: 'direct'
+name: 'direct.exchange'
+auto_delete: true

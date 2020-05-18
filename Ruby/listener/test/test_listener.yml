@@ -1,0 +1,9 @@
+queue:
+  name: 'Test'
+  options: {}
+bind:
+  routing_key: 'test.key'
+subscribe:
+  block: true
+publish:
+  routing_key: 'test.key'
